@@ -33,7 +33,7 @@ I've had the privilege of architecting and developing several high-impact platfo
 
 ## 🛠️ My Tech Arsenal
 
-I leverage a diverse set of tools and technologies to build, secure, and maintain robust systems:
+I leverage a diverse set of tools and technologies to build, secure, and maintain modern and robust systems:
 
 ### Software Engineering
 
@@ -42,7 +42,7 @@ I leverage a diverse set of tools and technologies to build, secure, and maintai
       * **Frameworks & Libraries:** Next.js, React, Material-UI
       * **Runtimes:** Node.js, (and some Bun)
   * **Backend:**
-      * **Frameworks & Tools:** Go Fiber, Express.js
+      * **Frameworks & Tools:** Go Fiber, Express.js, (and some nestjs)
       * **Identity and Access Management:** Keycloak, Zidatel
   * **Databases & Data Management:**
       * **Technologies:** PostgreSQL, MongoDB, Redis
@@ -63,7 +63,7 @@ I leverage a diverse set of tools and technologies to build, secure, and maintai
 ### Data Science
 
   * **Languages & Libraries:** Python, LightGBM, XGBoost
-  * **Visualization & Reporting:** Plotly, LaTeX (for automated, high-quality report generation)
+  * **Visualization & Reporting:** Plotly, LaTeX (Combined with Python for automated, high-quality report generation)
   * **Data Engineering:**
       * Hands-on experience in data engineering, including data cleaning, transformation, and loading into databases.
 
